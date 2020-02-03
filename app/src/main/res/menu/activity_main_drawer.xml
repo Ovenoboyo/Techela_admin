@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_explicit_black_24dp"
+            android:title="Quiz Questions" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Quiz Results" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_center_focus_weak_black_24dp"
+            android:title="Lucky Draw Result" />
+
+    </group>
+
+
+
+</menu>
