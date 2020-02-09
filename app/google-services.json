@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "515842075843",
+    "firebase_url": "https://techela-9f415.firebaseio.com",
+    "project_id": "techela-9f415",
+    "storage_bucket": "techela-9f415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515842075843:android:3eac19497e74879ced0676",
+        "android_client_info": {
+          "package_name": "com.example.techela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515842075843-tejmd85hq95st3arphit1iuhfcoojtcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBmbKleX5G-F7I47WWLgwe5eQysn-MXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515842075843-tejmd85hq95st3arphit1iuhfcoojtcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515842075843:android:f3179bf81fea02b1ed0676",
+        "android_client_info": {
+          "package_name": "com.symbiosis.techela.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515842075843-tejmd85hq95st3arphit1iuhfcoojtcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBmbKleX5G-F7I47WWLgwe5eQysn-MXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515842075843-tejmd85hq95st3arphit1iuhfcoojtcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
